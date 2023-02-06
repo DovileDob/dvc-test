@@ -1,0 +1,4 @@
+[core]
+    remote = gremote
+['remote "gremote"']
+    url = gdrive://15Q5_Sgk5Mh39QxMPSe5lIusjT2XMlojG
